@@ -1,0 +1,8 @@
+[[database_connections]]
+BusinessId = "image_route"
+IP = "127.0.0.1"
+Port = "3306"
+Username = "root"
+Password = ""
+DBName = "ai_image"
+TableName = "image_route"
