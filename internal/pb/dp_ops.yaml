@@ -1,0 +1,8 @@
+type: google.api.Service
+config_version: 3
+
+http:
+  rules:
+    - selector: db_common_ops.DbOpsService.GetRecord
+      post: /db_common_ops/getrecord
+      body: "*"
