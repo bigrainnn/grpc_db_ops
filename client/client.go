@@ -25,8 +25,8 @@ func main() {
 		Records: []*pb2.Record{
 			{
 				Fields: []*pb2.Field{
-					{Key: "user_id", Value: "test"},
-					{Key: "route", Value: "test"},
+					{Key: "user_id", Value: "test3"},
+					{Key: "route", Value: "test3"},
 				},
 			},
 		},
